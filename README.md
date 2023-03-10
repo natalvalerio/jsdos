@@ -11,6 +11,7 @@ JSDOS!
 - com
 - vários
 - items
+- 10/03/2022
 
 # Next.js + Tailwind CSS Example
 
