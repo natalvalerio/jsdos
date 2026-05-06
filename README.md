@@ -3,6 +3,9 @@ title: "JSDOS"
 date: "30/12/2022"
 ---
 
+# Definição:
+**JSDOS** _uma maneira prática de rodar jogos antigos no navegador!_.
+
 ## Estrutura do projeto
 ```
 .
@@ -27,8 +30,6 @@ date: "30/12/2022"
 ├── projeto.py
 └── sobe.bat
 ```
-
-**JSDOS** _uma maneira prática de rodar jogos antigos no navegador!_.
 
 ### 06/05/2026
 **Atualização importante** - Ajustes significativos no repositório
