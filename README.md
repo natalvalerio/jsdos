@@ -10,25 +10,29 @@ date: "30/12/2022"
 ```
 .
 ├── .gitignore
-├── .gitpod.yml
 ├── README.md
-├── _site
-│   ├── dosbox.conf
-│   ├── index.html
-│   ├── js-dos
-│   │   ├── emulators-ui-loader.png
-│   │   ├── js-dos.css
-│   │   ├── js-dos.js
-│   │   ├── js-dos.js.map
-│   │   ├── wdosbox.js
-│   │   ├── wdosbox.js.symbols
-│   │   └── wdosbox.wasm
-│   ├── jsdos.json
-│   └── pacote.zip
-├── package-lock.json
-├── package.json
+├── dosbox.conf
+├── favicon.ico
+├── index.html
+├── index8.html
+├── index[original].html
+├── js-dos
+│   ├── emulators-ui-loader.png
+│   ├── favicon.ico
+│   ├── js-dos.css
+│   ├── js-dos.js
+│   ├── js-dos.js.map
+│   ├── wdosbox.js
+│   ├── wdosbox.js.symbols
+│   └── wdosbox.wasm
+├── js-dos8
+│   ├── js-dos.css
+│   └── js-dos.js
+├── pacote.zip
 ├── projeto.py
-└── sobe.bat
+├── sobe.bat
+├── start.bat
+└── vercel.md
 ```
 
 ### 06/05/2026
