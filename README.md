@@ -3,14 +3,12 @@ title: "JSDOS"
 date: "30/12/2022"
 ---
 
-JSDOS!
-
 **JSDOS** _uma maneira prática de rodar jogos antigos no navegador!_.
 
-##06/05/2026##
+## 06/05/2026
 **Atualização importante** - Ajustes significativos no repositório
 
-###Estrutura do projeto###
+### Estrutura do projeto
 ```
 .
 ├── .gitignore
