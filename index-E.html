@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- Carregando a v8 via CDN - Mais rápido e sempre atualizado -->
+    <script src="https://v8.js-dos.com/latest/js-dos.js"></script>
+    <link href="https://v8.js-dos.com/latest/js-dos.css" rel="stylesheet">
+    <style>
+        html, body, #jsdos { width: 100%; height: 100%; margin: 0; padding: 0; background: black; }
+    </style>
+</head>
+<body>
+    <div id="jsdos"></div>
+    <script>
+        // O js-dos v8 usa uma sintaxe de promessa mais moderna
+        emulators.createDisplay(document.getElementById("jsdos"));
+        
+        // Aqui você coloca o link da sua VPS ou o arquivo local
+        const bundleUrl = "pacote.zip"; 
+
+        window.Dos(document.getElementById("jsdos"))
+            .run(bundleUrl)
+            .then((ci) => {
+                console.log("DOS rodando na v8!");
+                // Aqui você pode adicionar controles extras se quiser
+            });
+    </script>
+</body>
+</html>
