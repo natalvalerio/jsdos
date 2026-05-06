@@ -3,7 +3,7 @@ title: "JSDOS"
 date: "30/12/2022"
 ---
 
-# Definição:
+# Definição
 **JSDOS** _uma maneira prática de rodar jogos antigos no navegador!_.
 
 ## Estrutura do projeto
