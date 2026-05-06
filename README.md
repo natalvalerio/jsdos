@@ -14,7 +14,6 @@ date: "30/12/2022"
 ├── dosbox.conf
 ├── favicon.ico
 ├── index.html
-├── index8.html
 ├── index[original].html
 ├── js-dos
 │   ├── emulators-ui-loader.png
@@ -25,13 +24,18 @@ date: "30/12/2022"
 │   ├── wdosbox.js
 │   ├── wdosbox.js.symbols
 │   └── wdosbox.wasm
-├── js-dos8
-│   ├── js-dos.css
-│   └── js-dos.js
+├── outros
+│   └── node.rar
 ├── pacote.zip
+├── pacote1.zip
 ├── projeto.py
 ├── sobe.bat
 ├── start.bat
+├── v8
+│   ├── index.html
+│   └── js-dos8
+│       ├── js-dos.css
+│       └── js-dos.js
 └── vercel.md
 ```
 
