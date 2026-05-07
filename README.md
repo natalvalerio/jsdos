@@ -39,5 +39,8 @@ date: "30/12/2022"
 └── vercel.md
 ```
 
+### 07/05/2026
+**Atualização importante** - Criado menus interativos
+
 ### 06/05/2026
 **Atualização importante** - Removidos todos os recursos herdados do node.js e deixado limpo, apenas html, js e css.
